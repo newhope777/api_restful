@@ -1,23 +1,23 @@
-# Django rest api music app
+### Django rest api music app
 
 
-# Activate virtaul environment
+### Activate virtaul environment
 
-## source venv/bin/activate
+##### source venv/bin/activate
 
-# Packages to install
+### Packages to install
 
-## pip install django
+#### pip install django
 
-## pip install djangorestframework
+#### pip install djangorestframework
 
-# Run the server 
+### Run the server 
 
-## python3 manage.py runserver 
+##### python3 manage.py runserver 
 
-# Access the API throught http
+### Access the API throught http
 
-## On your browser http://localhost:8000
+##### On your browser http://localhost:8000
 
 
 # Enjoy ;-)
